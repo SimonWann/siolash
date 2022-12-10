@@ -1,0 +1,7 @@
+.settings{
+  width: 100%;
+  padding: 20px 50px;
+  &::-webkit-scrollbar{
+    display: none;
+  }
+}
